@@ -6,7 +6,7 @@ title: "Introduce Myself"
 date: 2023-01-15
 published: true
 labels:
-  -Introduction
+  Introduction
 ---
 
 ## Introduce Myself

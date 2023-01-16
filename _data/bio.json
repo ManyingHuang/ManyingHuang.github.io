@@ -1,26 +1,23 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Manying Huang",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/ManyingHuang.png",
+    "email": "manyingh@hawaii.edu",
+    "website": "https://ManyingHuang.github.io",
+    "summary": "I am studying for a B.B.A. in Accounting in the Shidler College of Business at the University of Hawaii. I expect to graduate in Spring, 2024.",
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "ManyingHuang", "url": "https://github.com/ManyingHuang" },
+      { "network": "linkedin", "username": "manying-huang", "url": "https://www.linkedin.com/in/manying-huang-150507252/" },
+      { "network": "instagram", "username": "manying115", "url": "https://www.instagram.com/manying115/" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Accounting" },
+    { "name": "Hiking" },
+    { "name": "Reading" },
+    { "name": "Listening to Music" },
+    { "name": "Watching Movies and Hong Kong Dramas" }
   ],
   "skills": [
     {

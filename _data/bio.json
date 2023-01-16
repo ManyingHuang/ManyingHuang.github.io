@@ -21,90 +21,86 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "name": "Mutiligual",
+      "keywords": [ "Cantonese", "Mandarin" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS","Git/GitHub" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Accounting (expected Spring, 2024)",
+      "studyType": "B.B.A.",
+      "startDate": "2022",
       "endDate": "Present",
-      "courses": [
+      "courses": [ "ACC 201-Intro to Financial Accounting", "ACC 202-Intro to Management Accounting", "ACC 401-Federal Individual Income Taxation", "ACC 321-Intermediate Financial Accounting I", "ACC 323-Intermediate Financial Accounting II", "ACC 409-Accounting Information Systems" 
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Honolulu Community College Tutoring Center (Part-time)",
+      "position": "High School Tutor (Zoom Tutoring)",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
+      "startDate": "2021-05",
+      "endDate": "2021-10",
+      "summary": "Summer tutoring for summer math course of Farrington High School's students.", "Provided support to Farrington High School students with math content in Zoom."
+      "highlights": 
+        ""
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
+      "company": "Honolulu Community College Math Lab (Part-time)",
+      "position": "Math Embedded Tutor",
+      "website": "",
+      "startDate": "2020-02",
+      "endDate": "2021-07",
+      "summary": "Helped Honolulu Community College students with math questions at the Math Lab.", "Provided support to students when they had difficulties working with math content and course materials during their math class."
+      "highlights": 
+        ""
+  },
+ {
+  "company": "Palama Supermarket (Part-time)",
+      "position": "Cashier",
+      "website": "",
+      "startDate": "2017-02",
+      "endDate": "2020-08",
+      "summary": "Greeted customers when entering the store.", "Managed transactions with customers by using POS at the register. ","Packed customers' goods after transactions were done. ", "Helped customers look for their goods. ", "Answered customers' questions by phone."
+      "highlights": 
+        ""
+ }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
+      "organization": "Phi Theta Kappa",
+      "website": "https://www.ptk.org/",
+      "position": "Vice President of Fundraising of HCC Chapter",
+      "startDate": "2020-10",
+      "endDate": "2022-05",
+      "summary": "Planned and implemented fundraising projects.", "Maintained the chapter's financial reports.", "Held and attended general membership meetings.", "Participated in pre-event planning and rehearsals, conducted the Induction Ceremony for new members.",
+      "highlights": ""
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Thanked and Recognized S.T.A.R. Awards",
+      "date": "2022-05",
+      "awarder": "Honolulu Community College-Phi Theta Kappa International Honor Society",
+      "summary": "A S.T.A.R. award for my outstanding service with the honor society department."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Thank and Recognized S.T.A.R. Awards",
+      "date": "2022-05",
+      "awarder": "Honolulu Community College-Testing and Tutoring Department",
+      "summary": "A S.T.A.R. award for my outstanding service with the testing and tutoring department."
+    }
+     {
+      "title": "Thank and Recognized S.T.A.R. Awards",
+      "date": "2021-05",
+      "awarder": "Honolulu Community College-Phi Theta Kappa International Honor Society",
+      "summary": "A S.T.A.R. award for my outstanding service with the honor society department."
     }
   ],
   "references": [

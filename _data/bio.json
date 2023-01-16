@@ -1,0 +1,112 @@
+{
+  "basics": {
+    "name": "Manying Huang",
+    "label": "Student",
+    "picture": "https://github.com/ManyingHuang.png",
+    "email": "manyingh@hawaii.edu",
+    "website": "https://ManyingHuang.github.io",
+    "summary": "I am studying for a B.B.A. in Accounting in the Shidler College of Business at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "location": {"address":"Honolulu, HI, 96817"},
+    "profiles": [
+      { "network": "github", "username": "ManyingHuang", "url": "https://github.com/ManyingHuang" },
+      { "network": "linkedin", "username": "manying-huang", "url": "https://www.linkedin.com/in/manying-huang-150507252/" },
+      { "network": "instagram", "username": "manying115", "url": "https://www.instagram.com/manying115/" }
+    ]
+  },
+  "interests": [
+    { "name": "Accounting" },
+    { "name": "Hiking" },
+    { "name": "Reading" },
+    { "name": "Listening to Music" },
+    { "name": "Watching Movies and Hong Kong Dramas" }
+  ],
+  "skills": [
+    {
+      "name": "Mutiligual",
+      "keywords": [ "Cantonese", "Mandarin" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS","Git/GitHub" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Accounting (expected Spring, 2024)",
+      "studyType": "B.B.A.",
+      "startDate": "2022",
+      "endDate": "Present",
+      "courses": [ "ACC 201-Intro to Financial Accounting", "ACC 202-Intro to Management Accounting", "ACC 401-Federal Individual Income Taxation", "ACC 321-Intermediate Financial Accounting I", "ACC 323-Intermediate Financial Accounting II", "ACC 409-Accounting Information Systems" 
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Honolulu Community College Tutoring Center (Part-time)",
+      "position": "High School Tutor (Zoom Tutoring)",
+      "website": "",
+      "startDate": "2021-05",
+      "endDate": "2021-10",
+      "summary": ["Summer tutoring for summer math course of Farrington High School's students.", "Provided support to Farrington High School students with math content in Zoom."],
+      "highlights": 
+        ""
+    },
+    {
+      "company": "Honolulu Community College Math Lab (Part-time)",
+      "position": "Math Embedded Tutor",
+      "website": "",
+      "startDate": "2020-02",
+      "endDate": "2021-07",
+      "summary": ["Helped Honolulu Community College students with math questions at the Math Lab.", "Provided support to students when they had difficulties working with math content and course materials during their math class."],
+      "highlights": 
+        ""
+  },
+ {
+  "company": "Palama Supermarket (Part-time)",
+      "position": "Cashier",
+      "website": "",
+      "startDate": "2017-02",
+      "endDate": "2020-08",
+      "summary": ["Greeted customers when entering the store.", "Managed transactions with customers by using POS at the register. ","Packed customers' goods after transactions were done. ", "Helped customers look for their goods. ", "Answered customers' questions by phone."],
+      "highlights": 
+        ""
+ }
+  ],
+  "volunteer": [
+    {
+      "organization": "Phi Theta Kappa",
+      "website": "https://www.ptk.org/",
+      "position": "Vice President of Fundraising of HCC Chapter",
+      "startDate": "2020-10",
+      "endDate": "2022-05",
+      "summary": ["Planned and implemented fundraising projects.", "Maintained the chapter's financial reports.", "Held and attended general membership meetings.", "Participated in pre-event planning and rehearsals, conducted the Induction Ceremony for new members."],
+      "highlights": ""
+    }
+  ],
+  "awards": [
+    {
+      "title": "Thanked and Recognized S.T.A.R. Awards",
+      "date": "2022-05",
+      "awarder": "Honolulu Community College-Phi Theta Kappa International Honor Society",
+      "summary": "A S.T.A.R. award for my outstanding service with the honor society department."
+    },
+    {
+      "title": "Thank and Recognized S.T.A.R. Awards",
+      "date": "2022-05",
+      "awarder": "Honolulu Community College-Testing and Tutoring Department",
+      "summary": "A S.T.A.R. award for my outstanding service with the testing and tutoring department."
+    },
+     {
+      "title": "Thank and Recognized S.T.A.R. Awards",
+      "date": "2021-05",
+      "awarder": "Honolulu Community College-Phi Theta Kappa International Honor Society",
+      "summary": "A S.T.A.R. award for my outstanding service with the honor society department."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}

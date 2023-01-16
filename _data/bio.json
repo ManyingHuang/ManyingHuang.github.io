@@ -6,7 +6,7 @@
     "email": "manyingh@hawaii.edu",
     "website": "https://ManyingHuang.github.io",
     "summary": "I am studying for a B.B.A. in Accounting in the Shidler College of Business at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": "address":"Honolulu, HI, 96817"
+    "location": {"address":"Honolulu, HI, 96817"},
     "profiles": [
       { "network": "github", "username": "ManyingHuang", "url": "https://github.com/ManyingHuang" },
       { "network": "linkedin", "username": "manying-huang", "url": "https://www.linkedin.com/in/manying-huang-150507252/" },
@@ -48,7 +48,7 @@
       "website": "",
       "startDate": "2021-05",
       "endDate": "2021-10",
-      "summary": "Summer tutoring for summer math course of Farrington High School's students.", "Provided support to Farrington High School students with math content in Zoom."
+      "summary": ["Summer tutoring for summer math course of Farrington High School's students.", "Provided support to Farrington High School students with math content in Zoom."],
       "highlights": 
         ""
     },
@@ -58,7 +58,7 @@
       "website": "",
       "startDate": "2020-02",
       "endDate": "2021-07",
-      "summary": "Helped Honolulu Community College students with math questions at the Math Lab.", "Provided support to students when they had difficulties working with math content and course materials during their math class."
+      "summary": ["Helped Honolulu Community College students with math questions at the Math Lab.", "Provided support to students when they had difficulties working with math content and course materials during their math class."],
       "highlights": 
         ""
   },
@@ -68,7 +68,7 @@
       "website": "",
       "startDate": "2017-02",
       "endDate": "2020-08",
-      "summary": "Greeted customers when entering the store.", "Managed transactions with customers by using POS at the register. ","Packed customers' goods after transactions were done. ", "Helped customers look for their goods. ", "Answered customers' questions by phone."
+      "summary": ["Greeted customers when entering the store.", "Managed transactions with customers by using POS at the register. ","Packed customers' goods after transactions were done. ", "Helped customers look for their goods. ", "Answered customers' questions by phone."],
       "highlights": 
         ""
  }
@@ -80,7 +80,7 @@
       "position": "Vice President of Fundraising of HCC Chapter",
       "startDate": "2020-10",
       "endDate": "2022-05",
-      "summary": "Planned and implemented fundraising projects.", "Maintained the chapter's financial reports.", "Held and attended general membership meetings.", "Participated in pre-event planning and rehearsals, conducted the Induction Ceremony for new members.",
+      "summary": ["Planned and implemented fundraising projects.", "Maintained the chapter's financial reports.", "Held and attended general membership meetings.", "Participated in pre-event planning and rehearsals, conducted the Induction Ceremony for new members."],
       "highlights": ""
     }
   ],
